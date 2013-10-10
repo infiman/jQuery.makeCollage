@@ -30,6 +30,8 @@ Structure of HTML divs must looks like this:
         		</div>
       		</div>
       	</div>
+
+For more info watch demo code.
 			
 Also don't be shy to fork it :)
 Have a nice day!
