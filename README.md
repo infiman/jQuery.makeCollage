@@ -21,11 +21,11 @@ It's very simple to use:
 			
 Structure of HTML divs must looks like this:
 
-	<div class="collage">		<!--Collage container. To this container in js you must apply .makeCollage( ... )-->
-      		<div class="box">	<!--Container of image-->
-        		<a href="#"><span class="link"></span></a>	<!--If you want wrap image with link-->
+	<div class="collage">							<!--Collage container. To this container in js you must apply .makeCollage( ... )-->
+      		<div class="box">						<!--Container of image-->
+        		<a href="#"><span class="link"></span></a>		<!--If you want wrap image with link-->
         		<img src="http://placehold.it/350x150/69D2E7/ffffff">	<!--Your image-->
-        		<div class="photo-bar">				<!--Bottom bar for some info-->
+        		<div class="photo-bar">					<!--Bottom bar for some info-->
           			Some stuff 
         		</div>
       		</div>
